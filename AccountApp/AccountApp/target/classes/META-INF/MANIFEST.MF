@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AccountApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DELL
+Implementation-Vendor-Id: com.anz.account
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AccountApp
+Created-By: Maven Integration for Eclipse
+
